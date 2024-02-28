@@ -1,0 +1,31 @@
+{
+  "name": "only-learning",
+  "version": "1.0.2",
+  "description": "hanya untuk pembelajaran dan tidak lebih",
+  "main": "app.js",
+  "scripts": {
+    "start": "app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sukofebrian2/just-learning.git"
+  },
+  "keywords": [
+    "Pembelajaran",
+    "npm"
+  ],
+  "author": "sukofebrian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sukofebrian2/just-learning/issues"
+  },
+  "homepage": "https://github.com/sukofebrian2/just-learning#readme",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "validator": "^13.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
