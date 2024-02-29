@@ -1,17 +1,25 @@
-# Just-Learning
-only for learning about nodejs
+This is a simple inputting application.
 
-##Install
+## Getting Started :
 
-npm i only-learning
+First, run the Inputing.
 
-##How To Use
+```bash
+node app.js
+```
 
-...bash
+## Output If It Appears Like This :
+```bash
+Masukan Nama Anda : [your name].
 
-$
-npm node
+Masukan Nomor Hp Anda : [your mobile phone].
+```
 
+## Example Application After Running : 
+```bash
+Masukan Nama Anda : jhon.
 
+Masukan Nomor Hp Anda : 01234546328.
 
-
+Terimakasih Sudah Mengisi Semuanya.
+```
