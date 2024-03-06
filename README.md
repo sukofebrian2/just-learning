@@ -10,16 +10,16 @@ node app.js
 
 ## Output If It Appears Like This :
 ```bash
-Masukan Nama Anda : [your name].
+Input Your Name : [your name].
 
-Masukan Nomor Hp Anda : [your mobile phone].
+Input Your Phone Number : [your mobile phone].
 ```
 
 ## Example Application After Running : 
 ```bash
-Masukan Nama Anda : jhon.
+Input Your Name : GUGU.
 
-Masukan Nomor Hp Anda : 01234546328.
+Input Your Phone Number : 031254635888877552266.
 
-Terimakasih Sudah Mengisi Semuanya.
+Thank You For Filling In Everything.
 ```
